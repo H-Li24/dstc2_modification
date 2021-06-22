@@ -18,7 +18,6 @@ def extract_act(fr_dstc):
 
 
 
-
 if __name__ == '__main__':
     fr_dstc_trn = open('1',"r")
     fr_dstc_val = open('2',"r")
